@@ -7,7 +7,7 @@ export function Hero() {
       <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80')] bg-cover bg-center opacity-20"></div>
       <div className="relative z-10 text-center px-4">
         <div className="mb-8">
-          <img style="height: 200px; width: 200px"
+          <img style="height: 100px; width: 100px"
             src="https://raw.githubusercontent.com/rakibul263/Personal-Portfolio/refs/heads/main/Shuvo.jpeg" 
             alt="MD RAKIBUL HASAN"
             className="w-48 h-48 rounded-full mx-auto border-4 border-blue-500 shadow-xl"
