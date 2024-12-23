@@ -8,7 +8,7 @@ export function Hero() {
       <div className="relative z-10 text-center px-4">
         <div className="mb-8">
           <img 
-            src="https://www.instagram.com/p/C9EvsnHJMEyG-E-YUqBHTw7W0HlyRvBbXSfNzU0/" 
+            src="https://raw.githubusercontent.com/rakibul263/Personal-Portfolio/refs/heads/main/Shuvo.jpeg" 
             alt="MD RAKIBUL HASAN"
             className="w-48 h-48 rounded-full mx-auto border-4 border-blue-500 shadow-xl"
           />
